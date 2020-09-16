@@ -22,3 +22,10 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aoadid8881@gmail.com)](mailto:aoadid8881@gmail.com)
   
 </div>
+
+<div align=center>
+  
+  취미로 개발하고 이용하는 프로그래밍 언어는 C언어 PHP 입니다.
+  
+  플러그인의 공유를 위해 제작하는 것이 대부분이며 다른 개발자 또는 어드민들과 나누는걸 좋아하는 성격입니다.
+</div>
