@@ -1,6 +1,6 @@
 <div align=center>
   
-  ### Hi there 👋
+  ### 안녕하세요 평범한 고등학생 Github에 놀러오신걸 환영합니다 👋
   
 </div>
 
