@@ -30,3 +30,5 @@
   PocketMine Minecraft Server 에 이용되고 필요로하는 플러그인을 공유 위해 제작하는 것이 대부분이며 다른 개발자 또는 어드민들과 나누는걸 좋아하여 Github 에 많은 플러그인을 업로드합니다.
   
 </div>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
