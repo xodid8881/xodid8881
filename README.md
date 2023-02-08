@@ -32,3 +32,4 @@
 </div>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xodid8881&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=xodid8881)](https://git.io/streak-stats)
