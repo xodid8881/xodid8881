@@ -31,4 +31,4 @@
   
 </div>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=xodid8881&show_icons=true)
