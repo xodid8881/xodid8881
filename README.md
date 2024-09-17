@@ -14,6 +14,8 @@
   마인크래프트 게임을 플레이하게 되면서 PHP 를 알게 되었으며 취미생활을 위해서 개발자로 활동중입니다.
   
   Pocketmine 의 기본적인 서버구축, 플러그인 개발에 흥미를 가지고 있습니다.
+
+  Java 서버 틀이 되는 플러그인 제작에 흥미를 느껴서 Pocketmine 을 버리고 자바 플러그인 개발을 진행중입니다.
 </div>
 
 <div align=center>
@@ -25,10 +27,10 @@
 
 <div align=center>
   
-  취미로 개발하고 이용하는 프로그래밍 언어는 C언어 PHP 입니다.
+  취미로 개발하고 이용하는 프로그래밍 언어는 C언어 PHP Java 입니다.
   
-  PocketMine Minecraft Server 에 이용되고 필요로하는 플러그인을 공유 위해 제작하는 것이 대부분이며 다른 개발자 또는 어드민들과 나누는걸 좋아하여 Github 에 많은 플러그인을 업로드합니다.
-  
+  --PocketMine Minecraft Server 에 이용되고 필요로하는 플러그인을 공유 위해 제작하는 것이 대부분이며 다른 개발자 또는 어드민들과 나누는걸 좋아하여 Github 에 많은 플러그인을 업로드합니다.--
+  Java Minecraft Server 에 이용되고 필요로하는 플러그인을 공유 위해 제작하는 것이 대부분이며 다른 개발자 또는 어드민들과 나누는걸 좋아하여 Github 에 많은 플러그인을 업로드합니다.
 </div>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xodid8881&show_icons=true)
