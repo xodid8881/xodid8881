@@ -13,7 +13,7 @@
 <div align=center>
   마인크래프트 게임을 플레이하게 되면서 PHP 를 알게 되었으며 취미생활을 위해서 개발자로 활동중입니다.
   
-  Pocketmine 의 기본적인 서버구축, 플러그인 개발에 흥미를 가지고 있습니다.
+  Pocketmine 의 기본적인 서버구축, 플러그인 개발에 흥미를 가지고 개발을 하다 자바 환경에 적응하여 활동중입니다.
 
   Java 서버 틀이 되는 플러그인 제작에 흥미를 느껴서 Pocketmine 을 버리고 자바 플러그인 개발을 진행중입니다.
 </div>
@@ -37,4 +37,4 @@
 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xodid8881)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
