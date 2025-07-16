@@ -37,6 +37,17 @@ PocketMine-MP로 시작하여 현재는 **Java & Kotlin 기반의 Minecraft 플�
 
 ---
 
+### 💎 대표 프로젝트
+
+<div align="center">
+
+| 프로젝트 | 설명 | 기술 스택 | 링크 |
+|----------|------|-----------|------|
+| 🧱 **HwaSkyBlock** | Java 기반 SkyBlock 서버용 커스텀 플러그인 | Java, Kotlin, Paper API | [🔗 GitHub](https://github.com/xodid8881/HwaSkyBlock) |
+</div>
+
+---
+
 ### 📫 연락처
 
 <div align="center">
