@@ -20,7 +20,7 @@
 취미로 시작한 개발이 이제는 저만의 프로젝트와 함께하고 있어요.
 
 PocketMine-MP 기반 서버 개발로 시작해서  
-현재는 **Java 기반 Minecraft 서버 플러그인 제작**에 집중하고 있습니다.
+현재는 **Java,Kotlin 기반 Minecraft 서버 플러그인 제작**에 집중하고 있습니다.
 
 </div>
 
@@ -29,7 +29,7 @@ PocketMine-MP 기반 서버 개발로 시작해서
 <div align="center">
 
 🛠️ 사용 중인 언어  
-`C` `PHP` `Java`
+`C` `PHP` `Java` `Kotlin`
 
 💬 주 관심 분야  
 - Minecraft 서버 플러그인 개발  
