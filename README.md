@@ -9,8 +9,7 @@
 ### 👋 안녕하세요! 평범한 바보의 GitHub에 오신 걸 환영합니다.
 
 🎮 Minecraft를 계기로 개발을 시작한 취미 개발자입니다.  
-PocketMine-MP로 시작하여 현재는 **Java & Kotlin 기반의 Minecraft 플러그인** 개발에 집중하고 있어요.
-
+PocketMine-MP로 시작하여 현재는 **Java & Kotlin 기반의 Minecraft 플러그인** 개발에 집중하고 있어요.  
 **GeyserMC**를 이용한 베드락 플레이어 지원 플러그인 제작에 집중하고 있습니다.
 
 </div>
