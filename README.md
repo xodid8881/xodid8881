@@ -10,7 +10,7 @@
 
 🎮 Minecraft를 계기로 개발을 시작한 취미 개발자입니다.  
 PocketMine-MP로 시작하여 현재는 **Java & Kotlin 기반의 Minecraft 플러그인** 개발에 집중하고 있어요.  
-**GeyserMC**를 이용한 베드락 플레이어 지원 플러그인 제작에 집중하고 있습니다.
+**GeyserMC**를 이용한 Bedrock 플레이어 지원 기능에도 많은 관심을 가지고 있습니다.
 
 </div>
 
@@ -31,10 +31,10 @@ PocketMine-MP로 시작하여 현재는 **Java & Kotlin 기반의 Minecraft 플�
 
 ### 🔥 활동 분야
 
-- 🛠 Minecraft 서버 플러그인 개발 (Java, Kotlin, PHP)
-- 🧱 PocketMine & Paper/Bukkit 기반 서버 구조 설계
-- 🌍 오픈소스 플러그인 제작 및 공유
-- 🤝 개발자 & 운영자 커뮤니티 참여와 소통
+- 🛠 Minecraft 서버 플러그인 개발 (Java, Kotlin, PHP)  
+- 🧱 PocketMine & Paper/Bukkit 기반 서버 구조 설계  
+- 🌍 오픈소스 플러그인 제작 및 공유  
+- 🤝 개발자 & 운영자 커뮤니티 참여와 소통  
 
 ---
 
@@ -42,9 +42,20 @@ PocketMine-MP로 시작하여 현재는 **Java & Kotlin 기반의 Minecraft 플�
 
 <div align="center">
 
-| 프로젝트 | 설명 | 기술 스택 | 링크 |
-|----------|------|-----------|------|
-| 🧱 **HwaSkyBlock** | Java 기반 SkyBlock 서버용 커스텀 플러그인 | Java, Kotlin, Paper API | [🔗 GitHub](https://github.com/xodid8881/HwaSkyBlock) |
+<table>
+  <tr>
+    <th>프로젝트</th>
+    <th>설명</th>
+    <th>기술 스택</th>
+    <th>링크</th>
+  </tr>
+  <tr>
+    <td>🧱 <strong>HwaSkyBlock</strong></td>
+    <td>Java 기반 SkyBlock 서버용 커스텀 플러그인</td>
+    <td>Java, Kotlin, Paper API</td>
+    <td><a href="https://github.com/xodid8881/HwaSkyBlock">🔗 GitHub</a></td>
+  </tr>
+</table>
 
 </div>
 
@@ -53,6 +64,9 @@ PocketMine-MP로 시작하여 현재는 **Java & Kotlin 기반의 Minecraft 플�
 ### 📫 연락처
 
 <div align="center">
+
+궁금한 점이 있다면 언제든지 연락해주세요! 😊  
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/xodid8881)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:aoadid8881@gmail.com)
@@ -65,8 +79,8 @@ PocketMine-MP로 시작하여 현재는 **Java & Kotlin 기반의 Minecraft 플�
 
 <div align="center">
 
-![xodid8881's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xodid8881&show_icons=true&theme=tokyonight&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=xodid8881&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![xodid8881's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xodid8881&show_icons=true&theme=tokyonight&hide_border=true)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=xodid8881&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xodid8881&theme=dracula&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
@@ -82,4 +96,3 @@ PocketMine-MP로 시작하여 현재는 **Java & Kotlin 기반의 Minecraft 플�
 </div>
 
 ---
-
